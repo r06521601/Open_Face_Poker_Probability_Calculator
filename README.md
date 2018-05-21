@@ -18,7 +18,7 @@ In the end of my word, I want to thx to my brother. He give me the chance to do 
 
 1. Pick your hand card, put poker into picked card.
 
-2. press start button.
+2. press show button.
 
 ## License
 
